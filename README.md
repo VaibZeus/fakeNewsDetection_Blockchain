@@ -1,4 +1,4 @@
-Fake News Detection Using Blockchain
+# Fake News Detection Using Blockchain
 
 A decentralized system for verifying news authenticity using Ethereum smart contracts.
 
