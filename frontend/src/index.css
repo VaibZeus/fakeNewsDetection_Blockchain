@@ -1,0 +1,16 @@
+h2.h5{
+  font-family: Alexandria;
+  font-weight: bold;
+  background: rgb(243, 243, 243);
+  color: rgb(91, 91, 91)!important;
+  padding: 5px;
+  border-radius: 5px;
+  display: inline-block;
+  border:1px solid #ccc;
+}
+h5.card-title{
+  font-family: Alexandria;
+  font-weight: bold;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+}

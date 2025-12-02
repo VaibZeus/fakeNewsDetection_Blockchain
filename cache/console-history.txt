@@ -1,0 +1,11 @@
+const a = await contract.getArticle(ch);
+const ch = "0x9d7857ff8779db86314ad6dee0528cfcbc4132f72f28dd9781848199f92728cd"; 
+const vp1 = await contract.votingPeriod();
+const vp = await contract.votingPeriod();
+const contract3 = await ethers.getContractAt("NewsRegistry","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+const vp = await contract.votingPeriod();
+const contract2 = await ethers.getContractAt("NewsRegistry",0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512);
+const contract2 = await ethers.getContractAt("NewsRegistry",0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512;
+const contract1 = await ethers.getContractAt("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512", NEWS_ADDRESS);
+const contract = await ethers.getContractAt("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512", NEWS_ADDRESS);
+const contract = await ethers.getContractAt("NewsRegistry", NEWS_ADDRESS);
